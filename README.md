@@ -20,3 +20,8 @@ Uniq and sort commands
 
 Paste command
 > [documentation](http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html)
+
+AWK
+> [intro](https://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/)
+> [conditions](https://www.thegeekstuff.com/2010/02/awk-conditional-statements/)
+> [build-in variables](https://www.thegeekstuff.com/2010/01/8-powerful-awk-built-in-variables-fs-ofs-rs-ors-nr-nf-filename-fnr/)
