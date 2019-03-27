@@ -14,3 +14,9 @@ String Manipulation
 
 Bash Array Tutorial
 > [documentation](https://www.thegeekstuff.com/2010/06/bash-array-tutorial/)
+
+Uniq and sort commands
+> [documentation](https://www.linode.com/docs/tools-reference/tools/manipulate-lists-with-sort-and-uniq/)
+
+Paste command
+> [documentation](http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html)
